@@ -1,0 +1,8 @@
+class stud
+{
+  int x,y;
+  stud ()
+  {
+  }
+  
+  
