@@ -4,5 +4,7 @@ class stud
   stud ()
   {
   }
-  
+  void print()
+  { System.out.print("SOFTWARE");
+  }
   
